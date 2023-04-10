@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: 74211aaf9debc2f45a18f38feb9afcc6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boiidle_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1092
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8270b075a939b3c4fb37dae9595733dd
+      internalID: 1576140996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1092
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e5c4c5c3128144aff7a752ecfcc6d
+      internalID: -1749215014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1092
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94c5c9a324358b4983ef4f766c4b0fe
+      internalID: -2137684761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1092
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a400da7d1e689394594ea4fb35083597
+      internalID: -1896403975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1092
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7df55f7407f244f983446e5fc94bef
+      internalID: 699941912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 1092
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b0bf31f5586d24184e273b24f9b456
+      internalID: -700288575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 1092
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750e39a3038e8e0409a0c956c8b4bbe5
+      internalID: 674166223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717973ff5dbfc91418a770c36710b208
+      internalID: -158917299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 728
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1161a04f2ecef814ca8dc63b02885dd4
+      internalID: 100668083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 728
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aedc86b1e315cd419103463c30de2c3
+      internalID: 1187026448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 728
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6779f64ae6fdca6489b7fa238823659b
+      internalID: -869814624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 728
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835794099b0cd9e4abcb9c787d333e95
+      internalID: 963708348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 728
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1072d6082956bd442afe3df2a6c65ea5
+      internalID: -226949097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 728
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b7e49e4cec7094590a9440a724e5f7
+      internalID: 1144342992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa816f7621b35a42a626e4d3bbf6e5a
+      internalID: 60599660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 364
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b975d011a546d438a994ef437e3d4f
+      internalID: -1509839115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 364
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7079b184df2fc22408b88b03283cfc1b
+      internalID: -1781222636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 364
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6469da7cb1a031144a795f2bbcd7c3f4
+      internalID: 245020026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 364
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cadcfa06a63fe4c8b0a1dada3b7952
+      internalID: 930729683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 364
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22772753b5914e44bebee77b98d28a1
+      internalID: 1676223626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 364
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b319467844aa774996969337917a9a2
+      internalID: 1631784021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2913909e094b0d84ea399dfe66b37adf
+      internalID: 2033263370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc221acf80fbeb438ffdf2807d3ef56
+      internalID: -72184635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 0
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0b5dc6b4b89d3428c79cb6b65e73a5
+      internalID: 1889750690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 0
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d596e1588298a9244b3c180eab4b3d70
+      internalID: -1658056977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 0
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdd3644c9a506847973c35194aba3f9
+      internalID: -59022424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 0
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b0fffa875a84a42bc7ccfe89df9470
+      internalID: -2084727237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boiidle_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 0
+        width: 566
+        height: 364
+      alignment: 9
+      pivot: {x: 0.8, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8207dc491798d714a87a5a92b0556b40
+      internalID: 626012392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boiidle_sheet_21: 2033263370
+      boiidle_sheet_27: 626012392
+      boiidle_sheet_13: 1144342992
+      boiidle_sheet_3: -1896403975
+      boiidle_sheet_2: -2137684761
+      boiidle_sheet_11: 963708348
+      boiidle_sheet_12: -226949097
+      boiidle_sheet_14: 60599660
+      boiidle_sheet_17: 245020026
+      boiidle_sheet_23: 1889750690
+      boiidle_sheet_20: 1631784021
+      boiidle_sheet_25: -59022424
+      boiidle_sheet_26: -2084727237
+      boiidle_sheet_19: 1676223626
+      boiidle_sheet_6: 674166223
+      boiidle_sheet_5: -700288575
+      boiidle_sheet_15: -1509839115
+      boiidle_sheet_22: -72184635
+      boiidle_sheet_4: 699941912
+      boiidle_sheet_1: -1749215014
+      boiidle_sheet_16: -1781222636
+      boiidle_sheet_7: -158917299
+      boiidle_sheet_9: 1187026448
+      boiidle_sheet_10: -869814624
+      boiidle_sheet_8: 100668083
+      boiidle_sheet_18: 930729683
+      boiidle_sheet_0: 1576140996
+      boiidle_sheet_24: -1658056977
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
