@@ -1,5 +1,5 @@
 ### Cat.Hax
-This project is for the 2023 Global Game Jam
+This project is for the 2023 Global Game Jam 
 Created in Unity
 
 GGJ website entry:
